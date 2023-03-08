@@ -1,0 +1,122 @@
+#top_logo{
+	max-width: 600px;
+	max-height: auto;
+}
+
+
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+#topdiv{
+	text-align: center;
+	background-image: url(https://www.celjaded.com/wp-content/uploads/2015/11/CelJaded-Heroes-of-Might-and-Magic-IV-Review-Banner.jpg);
+	border-style: groove;
+	border-width: 20px;
+	border-color: grey;
+	margin-bottom: 0px;
+}
+
+.midpic{
+	border-style: solid;
+	border-color: black;
+	max-width: 80%;
+	max-height: auto;
+
+}
+
+.middiv{
+	text-align: center;
+}
+
+nav{
+	text-align: center;
+}
+
+.nav{
+	display: inline-block;
+	text-align: center;
+	margin: 0px 10px 10px 10px;
+	padding: 5px 30px 5px 30px;
+	background: linear-gradient(rgb(161, 157, 157), rgb(214, 214, 214), rgb(79, 78, 78));
+	color: white;
+}
+
+body{
+	background-image: url(http://www.lacasadelpane.us/wp-content/uploads/2015/08/Light-Wood-Background.jpg);
+}
+
+h1{
+	font-family: Verdana;
+	text-align: center;
+	text-decoration: underline;
+
+}
+
+.mlay{
+	width: 50%;
+	margin: auto;
+	background: linear-gradient(rgb(235, 234, 232), rgb(212, 212, 212), rgb(191, 191, 191));
+	padding: 0 10px 10px 10px;
+	border-style: inset;
+	border-width: 5px;
+	border-color: rgb(143, 84, 3);
+
+}
+
+.secH{
+	margin-top: 50px;
+}
+
+p{
+	font-family: Helvetica;
+}
+
+.leftd{
+	background-color: black;
+	height: 600px;
+	width: 100px;
+	display: inline-block;
+}
+
+.emailfill{
+	display: block;
+	margin: 10px;
+
+}
+
+form{
+	padding: 20px;
+	text-align: center;
+}
+
+input[type="submit"]{
+	display: block;
+	padding: 5px 10px 5px 10px;
+	margin: 20px auto;
+	
+}
+
+#foot{
+	width: 100%;
+	background-image: url(https://cutewallpaper.org/27/black-scale-wallpaper/176377532.jpg);
+	height: 30px;
+	margin: 20px -20px -20px -20px;
+	padding: 10px 18px 10px 10px;
+
+}
+
+footer p, footer a{
+	display: block-inline;
+	color: white;
+	text-align: center;
+	margin-bottom: 10px;
+
+}
+
+footer a{
+	color: blue;
+	text-decoration: underline;
+}
